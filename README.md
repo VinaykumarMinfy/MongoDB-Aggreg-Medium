@@ -104,4 +104,5 @@ aggregationAssignmentDB> db.products.aggregate([
   }
 ]
 
-![Medium-3](https://github.com/user-attachments/assets/c346e009-9147-46bf-9602-2c4736eef52f)
+![Medium_3](https://github.com/user-attachments/assets/3219c37a-ee52-4726-aab1-c16a31691d30)
+
